@@ -1,0 +1,11 @@
+#root {
+    overflow: hidden;
+}
+
+.app {
+    display: flex;
+
+    .app_container {
+        flex: 1;
+    }
+}
